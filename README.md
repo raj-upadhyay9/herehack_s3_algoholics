@@ -44,9 +44,12 @@ in, there will be a solution based on your current-location.
 * No Internet? Offline Mode notifies nearby emergency services
 * Recieve alerts on wide-spread emergencies and get location of the nearest shelters. 
 
-<img src = "https://i.imgur.com/WpzrTgX.png" width=300>
-<img src = "https://i.imgur.com/f3QCcmy.png" width=300>
-
+<p align="center">
+  <img src = "https://i.imgur.com/WpzrTgX.png" width=300>
+ </p>
+<p align="center">
+  <img src = "https://i.imgur.com/f3QCcmy.png" width=300>
+</p>
 
 ## Tech Stack
 
