@@ -1,7 +1,7 @@
 <h1 align="center"> TapIt </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="TapIt" title="TapIt" src="[https://i.imgur.com/xR5MnZ7.png](https://i.imgur.com/QVCrz0Z.png)" width="450">
+    <img alt="TapIt" title="TapIt" src="https://i.imgur.com/QVCrz0Z.png" width="450">
   </a>
 </p>
 
