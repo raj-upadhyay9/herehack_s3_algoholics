@@ -1,7 +1,7 @@
 <h1 align="center"> TapIt </h1> <br>
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="TapIt" title="TapIt" src="https://i.imgur.com/xR5MnZ7.png" width="450">
+    <img alt="TapIt" title="TapIt" src="[https://i.imgur.com/xR5MnZ7.png](https://i.imgur.com/QVCrz0Z.png)" width="450">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ in, there will be a solution based on your current-location.
 * Recieve alerts on wide-spread emergencies and get location of the nearest shelters. 
 
 <p align="center">
-  <img src = "https://i.imgur.com/ApY5sGw.png" width=500>
+  <img src = "https://i.imgur.com/ApY5sGw.png" width=700>
  </p>
 
 ## Tech Stack
