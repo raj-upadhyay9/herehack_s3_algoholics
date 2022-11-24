@@ -62,4 +62,4 @@ in, there will be a solution based on your current-location.
 
 ## Acknowledgments
 
-Thanks to Here Technologies for conducting this Hackhathon, providing their services to help us make this Amazing Project - Tapit, for emergencies.
+Thanks to Here Technologies for conducting this Hackhathon, providing their services to our team Algoholics, helping us make this Amazing Project - Tapit, for emergencies.
