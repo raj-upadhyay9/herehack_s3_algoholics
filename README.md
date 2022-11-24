@@ -45,7 +45,7 @@ in, there will be a solution based on your current-location.
 * Recieve alerts on wide-spread emergencies and get location of the nearest shelters. 
 
 <p align="center">
-  <img src = "https://i.imgur.com/ApY5sGw.png" width=300>
+  <img src = "https://i.imgur.com/ApY5sGw.png" width=500>
  </p>
 
 ## Tech Stack
