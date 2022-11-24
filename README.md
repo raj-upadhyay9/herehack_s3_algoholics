@@ -14,12 +14,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
-- [Feedback](#feedback)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
-- [Backers](#backers-)
-- [Sponsors](#sponsors-)
+- [Problem Statement](#problem-statement)
+- [Proposed Solution](#proposed-solution)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -49,11 +45,11 @@ in, there will be a solution based on your current-location.
 * Recieve alerts on wide-spread emergencies and get location of the nearest shelters. 
 
 <p align="center">
-  <img src = "https://i.imgur.com/WpzrTgX.png" width=700>
+  <img src = "https://i.imgur.com/WpzrTgX.png" width=300>
 </p>
 
 <p align="center">
-  <img src = "https://i.imgur.com/f3QCcmy.png" width=700>
+  <img src = "https://i.imgur.com/f3QCcmy.png" width=300>
 </p>
 
 ## Tech Stack
