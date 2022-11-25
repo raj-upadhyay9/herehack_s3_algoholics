@@ -45,7 +45,6 @@ in, there will be a solution based on your current-location.
 - Flutter
 - Express
 - PostgresSql
-- Docker
 
 
 ## Acknowledgments
