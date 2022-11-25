@@ -49,7 +49,7 @@ in, there will be a solution based on your current-location.
 ## Future Scope
 
 - Offline feature
-- Admin Panel Improvement
+- Adding support for more emergencies
 
 ## Acknowledgments
 
