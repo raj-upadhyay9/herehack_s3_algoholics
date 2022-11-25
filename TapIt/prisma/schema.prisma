@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model emergency {
+  em_id       BigInt  @id
+  type        String  @db.VarChar(50)
+  source      Float[]
+  destination Float[]
+  status      String? @db.VarChar(50)
+  description String? @db.VarChar(255)
+  id          BigInt
+  user        user    @relation(fields: [id], references: [id], onDelete: NoAction, map: "id")
+}
+
+model user {
+  id        BigInt      @id
+  name      String?     @db.VarChar(255)
+  email     String?     @db.VarChar(255)
+  phone     BigInt?
+  age       Int?
+  blood     String?     @db.VarChar(3)
+  height    Float?
+  gender    String?     @db.Char(1)
+  address   String?     @db.VarChar(255)
+  phonelist BigInt[]
+  emergency emergency[]
+}
