@@ -46,6 +46,10 @@ in, there will be a solution based on your current-location.
 - Express
 - PostgresSql
 
+## Future Scope
+
+- Offline feature
+- Admin Panel Improvement
 
 ## Acknowledgments
 
